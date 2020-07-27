@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    name="/users/8:orgid:efe178f2-d16d-43da-8626-6a024b4c0edb/endpoints/34508a2a-a82b-43c5-8026-5f0e4c9b1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/b3f2c902-f844-48f9-9dd6-cdc126238c7a.zip"
+    slaProfileEnabled="false" thinkTime="25"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b3f2c902-f844-48f9-9dd6-cdc126238c7a">
+    <embedded-action>6d3fb697-6a8e-419d-aa13-5fdef9c0cdb8</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_81cc609b-1846-4ebb-9f0c-ecc83ce73b88.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    eTag="&quot;2d8c1b224002457a3db9fb47f05c6d63&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 22 Jul 2020 22:29:53 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dynamicConfig.json" path="/dynamicConfig.json"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/b3f2c902-f844-48f9-9dd6-cdc126238c7a.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="d27xxe7juh1us6.cloudfront.net" slaProfileEnabled="false"
+    uid="6d3fb697-6a8e-419d-aa13-5fdef9c0cdb8" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b5bd5ddc-3ad6-480c-a45f-8a05b2c23e25.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="if-modified-since" value="Wed, 22 Jul 2020 22:29:53 GMT"/>
+    <header name="if-none-match" value="&quot;2d8c1b224002457a3db9fb47f05c6d63&quot;"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+last-modified: Wed, 22 Jul 2020 22:29:53 GMT&#xd;
+server: AmazonS3&#xd;
+date: Fri, 24 Jul 2020 14:22:57 GMT&#xd;
+etag: "2d8c1b224002457a3db9fb47f05c6d63"&#xd;
+cache-control: max-age=300&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 dcb6371435a8fec6aa5c3b2c88c86d31.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BOM50-C1&#xd;
+x-amz-cf-id: xkcei0taoKOcCnPCa_E58bPNgalH27V0xrTylomS3mxsdGd-aeo46A==&#xd;
+age: 241</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

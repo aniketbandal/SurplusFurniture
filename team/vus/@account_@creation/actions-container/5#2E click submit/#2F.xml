@@ -1,0 +1,37 @@
+<http-page enabled="false" executeResourcesDynamically="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/a05717c6-594b-47a0-8dd4-b765699eba3a.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a05717c6-594b-47a0-8dd4-b765699eba3a">
+    <embedded-action>a623e327-0b46-474c-a154-036bc5ca4095</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_fa893a88-1703-47a5-9746-2192234b6fa7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/" path="/" postType="2"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/a05717c6-594b-47a0-8dd4-b765699eba3a.zip"
+    recordedResponseCode="405" responseSize="552"
+    serverUid="dev1.surplusfreight.com" slaProfileEnabled="false"
+    uid="a623e327-0b46-474c-a154-036bc5ca4095" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_305b624b-104a-480b-a3d7-210f86139637.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_305b624b-104a-480b-a3d7-210f86139637.txt</requestContentFileDescription>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Access-Control-Request-Headers" value="content-type"/>
+    <header name="Access-Control-Request-Method" value="POST"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="dev1.surplusfreight.com"/>
+    <header name="Origin" value="https://preprod.surplusfreight.com"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 405 Not Allowed&#xd;
+Date: Fri, 24 Jul 2020 14:27:15 GMT&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Content-Length: 552&#xd;
+Connection: keep-alive&#xd;
+Server: nginx-more</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

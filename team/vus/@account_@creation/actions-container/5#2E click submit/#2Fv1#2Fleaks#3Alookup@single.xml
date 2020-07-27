@@ -1,0 +1,47 @@
+<http-page enabled="false" executeResourcesDynamically="false"
+    name="/v1/leaks:lookupSingle" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/918e5f81-db08-4bc2-8dfb-5e2a8a091dfd.zip"
+    slaProfileEnabled="false" thinkTime="313"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="918e5f81-db08-4bc2-8dfb-5e2a8a091dfd">
+    <embedded-action>aadeb015-d44f-4ef1-b4e5-09b50a23ec4f</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_692ba5ca-3a03-4240-827f-25a776655d27.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v1/leaks:lookupSingle"
+    path="/v1/leaks:lookupSingle" postType="2"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/918e5f81-db08-4bc2-8dfb-5e2a8a091dfd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="passwordsleakcheck-pa.googleapis.com"
+    slaProfileEnabled="false" uid="aadeb015-d44f-4ef1-b4e5-09b50a23ec4f" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[CgOrRIMQGBohAhiqpFp69DMX8S2xUydNv19nxVl5EL4K0NnsReavlFDu]]></binaryPostContentBase64>
+    <requestContentFileDescription>recorded-requests/req_c5fdfda1-3213-4358-9032-c33fbaac97da.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="Bearer ya29.a0AfH6SMBmCvmsKPP_m8zJjW2_-hYFEpDwcPGLNwQNZdf_y-OHsZfH6oeptYVqHL2HxWeftYjT3UoXk1vxLY6K4mbRXpaYQgfLjVbcwErHWeC_DeJCbcjn9L-uRHj0QK5kIZqQav7rwDB82Dl07SMrLXh4NTpD_YbcQ4_yrW6jOOdWmLBCG1aMy2AYfECAYXaSb35VMDWvHGn1xH4WXElRF1MizZ3BI1KsSf_0Chzw1kGWUCiBWSswJAEf45a6uE7xlQjztQO8a-Y"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="content-type" value="application/x-protobuf"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Fri, 24 Jul 2020 14:27:15 GMT&#xd;
+server: ESF&#xd;
+cache-control: private&#xd;
+content-length: 2625&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

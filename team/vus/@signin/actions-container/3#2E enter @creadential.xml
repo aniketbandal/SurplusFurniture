@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="3. enter Creadential" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" traceVariableNamesAsString=""
+    uid="a23a758b-a9f0-4d42-af11-eaeb8c311203" weightsEnabled="false">
+    <weighted-embedded-action uid="fc51be01-9eb7-497e-8757-cbf4c74f8772"/>
+</basic-logical-action-container>

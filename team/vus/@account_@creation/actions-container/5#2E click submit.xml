@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="5. click submit" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    traceVariableNamesAsString=""
+    uid="28fc5d4a-b30b-45a1-b74d-995ab16992eb" weightsEnabled="false">
+    <weighted-embedded-action uid="65979cb9-8eec-4692-8200-423ba615f5dc"/>
+    <weighted-embedded-action uid="a05717c6-594b-47a0-8dd4-b765699eba3a"/>
+    <weighted-embedded-action uid="918e5f81-db08-4bc2-8dfb-5e2a8a091dfd"/>
+</basic-logical-action-container>

@@ -1,0 +1,54 @@
+<http-page enabled="false" executeResourcesDynamically="false"
+    name="/media/favicon/stores/1/Surplus_Emblem_final.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@signin/%resources%/recorded-artifacts/6bfbc5e6-b0fd-41a4-b4e4-af4459d36742.zip"
+    slaProfileEnabled="false" thinkTime="974"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6bfbc5e6-b0fd-41a4-b4e4-af4459d36742">
+    <embedded-action>d1b27abf-6302-4812-bf3e-d3c77a7777bd</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b57f21f6-a1c0-4822-bee6-3bab80355cdb.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;5f0f6f53-38a&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Jul 2020 21:04:19 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/favicon/stores/1/Surplus_Emblem_final.png"
+    path="/media/favicon/stores/1/Surplus_Emblem_final.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@signin/%resources%/recorded-artifacts/6bfbc5e6-b0fd-41a4-b4e4-af4459d36742.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="preprod.surplusfreight.com" slaProfileEnabled="false"
+    uid="d1b27abf-6302-4812-bf3e-d3c77a7777bd" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_5fd30150-b06f-4c87-bc61-7b77c698fb0d.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="mage-cache-storage=%7B%7D; mage-cache-storage-section-invalidation=%7B%7D; searchsuiteautocomplete=%7B%7D; recently_viewed_product=%7B%7D; recently_viewed_product_previous=%7B%7D; recently_compared_product=%7B%7D; recently_compared_product_previous=%7B%7D; product_data_storage=%7B%7D; mage-messages=; PHPSESSID=1v2eokmvqph4hv1b3l5m18onat; private_content_version=4b0b109166e1a6276ef7d855e0726411; form_key=zf9qbOfaUgdnlCoy; mage-cache-sessid=true; section_data_ids=%7B%22customer%22%3A1595601626%2C%22compare-products%22%3A1595601626%2C%22last-ordered-items%22%3A1595601626%2C%22cart%22%3A1595601626%2C%22directory-data%22%3A1595601626%2C%22captcha%22%3A1595601626%2C%22instant-purchase%22%3A1595601626%2C%22persistent%22%3A1595601626%2C%22review%22%3A1595601626%2C%22wishlist%22%3A1595601626%2C%22recently_viewed_product%22%3A1595601626%2C%22recently_compared_product%22%3A1595601626%2C%22product_data_storage%22%3A1595601626%2C%22paypal-billing-agreement%22%3A1595601626%7D"/>
+    <header name="Host" value="preprod.surplusfreight.com"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Referer" value="https://preprod.surplusfreight.com/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 24 Jul 2020 14:41:25 GMT&#xd;
+Content-Type: image/png&#xd;
+Content-Length: 906&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Wed, 15 Jul 2020 21:04:19 GMT&#xd;
+Vary: Accept-Encoding&#xd;
+ETag: "5f0f6f53-38a"&#xd;
+Expires: Sat, 24 Jul 2021 14:41:25 GMT&#xd;
+Cache-Control: max-age=31536000&#xd;
+Cache-Control: public&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Accept-Ranges: bytes&#xd;
+Server: nginx-more&#xd;
+Access-Control-Allow-Origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

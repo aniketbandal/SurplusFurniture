@@ -1,0 +1,167 @@
+<http-page executeResourcesDynamically="false"
+    name="/customer/account/login/referer/aHR0cHM6Ly9wcmVwcm9kLnN1cnBsdXNmcmVpZ2h0LmNvbS8%2C/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/1e3554bc-4713-4300-b315-79fdd34f12a4.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1e3554bc-4713-4300-b315-79fdd34f12a4">
+    <embedded-action>e6da65b1-06f5-41d6-9340-5a379f65703a</embedded-action>
+    <embedded-action>fce48379-5a2d-4354-8448-1237a555b673</embedded-action>
+    <embedded-action>f6670f49-b81c-4a54-a6b7-cc33a81973e6</embedded-action>
+    <embedded-action>cebb74a8-e6e4-4029-880e-9a405078ad65</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_98177fec-defc-4031-a35a-0a245666eb74.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/customer/account/login/referer/aHR0cHM6Ly9wcmVwcm9kLnN1cnBsdXNmcmVpZ2h0LmNvbS8%2C/"
+    path="/customer/account/login/referer/aHR0cHM6Ly9wcmVwcm9kLnN1cnBsdXNmcmVpZ2h0LmNvbS8%2C/"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/1e3554bc-4713-4300-b315-79fdd34f12a4.zip"
+    recordedResponseCode="200" responseSize="62543"
+    serverUid="preprod.surplusfreight.com" slaProfileEnabled="false"
+    uid="e6da65b1-06f5-41d6-9340-5a379f65703a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c212e6f2-d2e3-4ba4-a03d-3058e3ccfc0f.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c212e6f2-d2e3-4ba4-a03d-3058e3ccfc0f.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="mage-cache-storage=%7B%7D; mage-cache-storage-section-invalidation=%7B%7D; searchsuiteautocomplete=%7B%7D; recently_viewed_product=%7B%7D; recently_viewed_product_previous=%7B%7D; recently_compared_product=%7B%7D; recently_compared_product_previous=%7B%7D; product_data_storage=%7B%7D; mage-messages=; PHPSESSID=9pa3holbi93rohltt4vuenrf7m; private_content_version=d99799a3d5ac1f69b86daca4438da0cc; form_key=wA4dVJRbsob8qIJx; mage-cache-sessid=true; section_data_ids=%7B%22customer%22%3A1595600575%2C%22compare-products%22%3A1595600575%2C%22last-ordered-items%22%3A1595600575%2C%22cart%22%3A1595600575%2C%22directory-data%22%3A1595600575%2C%22captcha%22%3A1595600575%2C%22instant-purchase%22%3A1595600575%2C%22persistent%22%3A1595600575%2C%22review%22%3A1595600575%2C%22wishlist%22%3A1595600575%2C%22recently_viewed_product%22%3A1595600575%2C%22recently_compared_product%22%3A1595600575%2C%22product_data_storage%22%3A1595600575%2C%22paypal-billing-agreement%22%3A1595600575%7D"/>
+    <header name="Host" value="preprod.surplusfreight.com"/>
+    <header name="Referer" value="https://preprod.surplusfreight.com/"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 24 Jul 2020 14:24:55 GMT&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Vary: Accept-Encoding&#xd;
+X-Powered-By: PHP/7.3.18&#xd;
+Set-Cookie: PHPSESSID=9pa3holbi93rohltt4vuenrf7m; expires=Fri, 24-Jul-2020 15:24:53 GMT; Max-Age=3600; path=/; domain=preprod.surplusfreight.com; secure; HttpOnly&#xd;
+Set-Cookie: form_key=wA4dVJRbsob8qIJx; expires=Fri, 24-Jul-2020 15:24:53 GMT; Max-Age=3600; path=/; domain=preprod.surplusfreight.com; secure&#xd;
+Pragma: no-cache&#xd;
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store&#xd;
+Expires: Wed, 24 Jul 2019 14:24:53 GMT&#xd;
+Login-Required: true&#xd;
+X-Magento-Debug: 1&#xd;
+Report-To: {"group":"report-endpoint","max_age":10886400,"endpoints":[{"url":"https:\/\/dev1.surplusfreight.com\/"}]}&#xd;
+Content-Security-Policy-Report-Only: font-src *.cloudflare.com *.twitter.com *.gstatic.com *.typekit.net *.twimg.com *.trustedshops.com *.googleapis.com *.bootstrapcdn.com *.youtube.com *.crwdcntrl.net *.addthis.com *.moatads.com *.addthisedge.com *.facebook.com *.google.com 'self' 'unsafe-inline'; form-action geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net *.twitter.com *.bootstrapcdn.com *.youtube.com *.crwdcntrl.net *.addthis.com *.moatads.com *.addthisedge.com *.facebook.com *.google.com 'self' 'unsafe-inline'; frame-ancestors 'self' 'unsafe-inline'; frame-src geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com *.twitter.com *.bootstrapcdn.com *.youtube.com *.crwdcntrl.net *.addthis.com *.moatads.com *.addthisedge.com *.facebook.com *.google.com 'self' 'unsafe-inline'; img-src widgets.magentocommerce.com www.googleadservices.com www.google-analytics.com t.paypal.com www.paypal.com www.paypalobjects.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com s.ytimg.com *.cloudflare.com *.klarna.com *.googleadservices.com *.google-analytics.com *.paypal.com *.twitter.com *.twimg.com *.ytimg.com 'self' data: *.lightemporium.com *.usercentrics.eu *.bootstrapcdn.com *.youtube.com *.crwdcntrl.net *.addthis.com *.moatads.com *.addthisedge.com *.facebook.com *.google.com 'self' 'unsafe-inline'; script-src assets.adobedtm.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.googleadservices.com www.google-analytics.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.paypalobjects.com t.paypal.com s.ytimg.com video.google.com vimeo.com www.vimeo.com js.authorize.net jstest.authorize.net js.braintreegateway.com cdn-scripts.signifyd.com www.youtube.com *.cloudflare.com *.twitter.com *.google-analytics.com *.twimg.com *.gstatic.com *.trustedshops.com *.usercentrics.eu *.fontawesome.com *.bootstrapcdn.com *.youtube.com *.crwdcntrl.net *.addthis.com *.moatads.com *.addthisedge.com *.facebook.com *.google.com 'self' 'unsafe-inline' 'unsafe-eval'; style-src getfirebug.com *.cloudflare.com *.googleapis.com *.twitter.com *.twimg.com *.gstatic.com *.typekit.net *.trustedshops.com *.usercentrics.eu *.fontawesome.com *.bootstrapcdn.com *.youtube.com *.crwdcntrl.net *.addthis.com *.moatads.com *.addthisedge.com *.facebook.com *.google.com 'self' 'unsafe-inline'; object-src 'self' 'unsafe-inline'; media-src 'self' 'unsafe-inline'; manifest-src 'self' 'unsafe-inline'; connect-src geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com *.cloudflare.com *.twitter.com *.paypal.com *.twimg.com *.bootstrapcdn.com *.youtube.com *.crwdcntrl.net *.addthis.com *.moatads.com *.addthisedge.com *.facebook.com *.google.com 'self' 'unsafe-inline'; child-src 'self' 'unsafe-inline'; default-src 'self' 'unsafe-inline' 'unsafe-eval'; base-uri 'self' 'unsafe-inline'; report-uri https://dev1.surplusfreight.com/; report-to report-endpoint;&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Content-Encoding: br&#xd;
+Server: nginx-more&#xd;
+Access-Control-Allow-Origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/5/c=13199/b=76612529"
+    path="/5/c=13199/b=76612529" postType="2"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/1e3554bc-4713-4300-b315-79fdd34f12a4.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="bcp.crwdcntrl.net" slaProfileEnabled="false"
+    uid="fce48379-5a2d-4354-8448-1237a555b673" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f4ab718b-18dc-4862-ad3b-75e2d667fb1a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://preprod.surplusfreight.com/customer/account/login/referer/aHR0cHM6Ly9wcmVwcm9kLnN1cnBsdXNmcmVpZ2h0LmNvbS8%2C/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="_cc_dc=2; _cc_id=8c66f48023179acbaf310976e3a632a7; _cc_domain=.cc.zee5.com"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 24 Jul 2020 14:24:56 GMT&#xd;
+content-type: image/gif&#xd;
+content-length: 49&#xd;
+p3p: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+expires: 0&#xd;
+x-server: 10.42.18.32&#xd;
+set-cookie: _cc_id=8c66f48023179acbaf310976e3a632a7;Path=/;Domain=crwdcntrl.net;Expires=Tue, 20-Apr-2021 14:04:00 GMT;SameSite=None;Secure&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/5/c=13199/b=76612539"
+    path="/5/c=13199/b=76612539" postType="2"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/1e3554bc-4713-4300-b315-79fdd34f12a4.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="bcp.crwdcntrl.net" slaProfileEnabled="false"
+    uid="f6670f49-b81c-4a54-a6b7-cc33a81973e6" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1dbdc6d0-fdf4-48fa-8837-880fe626c104.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://preprod.surplusfreight.com/customer/account/login/referer/aHR0cHM6Ly9wcmVwcm9kLnN1cnBsdXNmcmVpZ2h0LmNvbS8%2C/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="_cc_dc=2; _cc_id=8c66f48023179acbaf310976e3a632a7; _cc_domain=.cc.zee5.com"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 24 Jul 2020 14:24:57 GMT&#xd;
+content-type: image/gif&#xd;
+content-length: 49&#xd;
+p3p: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+expires: 0&#xd;
+x-server: 10.42.1.46&#xd;
+set-cookie: _cc_id=8c66f48023179acbaf310976e3a632a7;Path=/;Domain=crwdcntrl.net;Expires=Tue, 20-Apr-2021 14:04:00 GMT;SameSite=None;Secure&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/5/c=13199/b=76612609"
+    path="/5/c=13199/b=76612609" postType="2"
+    recordedArtifactZipFileName="team/vus/@account_@creation/%resources%/recorded-artifacts/1e3554bc-4713-4300-b315-79fdd34f12a4.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="bcp.crwdcntrl.net" slaProfileEnabled="false"
+    uid="cebb74a8-e6e4-4029-880e-9a405078ad65" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e751d482-f541-4441-b3f6-57457d701214.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://preprod.surplusfreight.com/customer/account/login/referer/aHR0cHM6Ly9wcmVwcm9kLnN1cnBsdXNmcmVpZ2h0LmNvbS8%2C/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="_cc_dc=2; _cc_id=8c66f48023179acbaf310976e3a632a7; _cc_domain=.cc.zee5.com"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 24 Jul 2020 14:24:56 GMT&#xd;
+content-type: image/gif&#xd;
+content-length: 49&#xd;
+p3p: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+expires: 0&#xd;
+x-server: 10.42.8.161&#xd;
+set-cookie: _cc_id=8c66f48023179acbaf310976e3a632a7;Path=/;Domain=crwdcntrl.net;Expires=Tue, 20-Apr-2021 14:04:00 GMT;SameSite=None;Secure&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
